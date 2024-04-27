@@ -9,3 +9,10 @@ This repository contains writeups for various CTF challenges I have completed.
 
 [TwoMillion](writeups/hackthebox/pentesting/twomillion/README.md) -  *Easy* 2024-04-24
 
+
+# CTFLearn
+
+## Cryptography
+
+[RSA Noob](writeups/ctflearn/cryptography/rsa_noob/README.md) -  *Medium* 2024-04-25
+[So many 64s](writeups/ctflearn/cryptography/so_many_64s/README.md) -  *Very Easy* 2024-04-25
