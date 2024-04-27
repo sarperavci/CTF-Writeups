@@ -2,17 +2,8 @@
 
 This repository contains writeups for various CTF challenges I have completed.
 
-
-# Hack The Box
-
-## Pentesting Machines (Retired)
-
-[TwoMillion](writeups/hackthebox/pentesting/twomillion/README.md) -  *Easy* 2024-04-24
-
-
-# CTFLearn
-
-## Cryptography
-
-[RSA Noob](writeups/ctflearn/cryptography/rsa_noob/README.md) -  *Medium* 2024-04-25
-[So many 64s](writeups/ctflearn/cryptography/so_many_64s/README.md) -  *Very Easy* 2024-04-25
+| Platform | Category | Challenge | Difficulty | Date |
+|----------|----------|-----------|------------|------|
+| Hack The Box | Pentesting Machines (Retired) | [TwoMillion](writeups/hackthebox/pentesting/twomillion/README.md) | Easy | 2024-04-24 |
+| CTFLearn | Cryptography | [RSA Noob](writeups/ctflearn/cryptography/rsa_noob/README.md) | Medium | 2024-04-25 |
+| CTFLearn | Cryptography | [So many 64s](writeups/ctflearn/cryptography/so_many_64s/README.md) | Very Easy | 2024-04-25 |
