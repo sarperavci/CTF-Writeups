@@ -10,3 +10,4 @@ This repository contains writeups for various CTF challenges I have completed.
 | TryHackMe | Pentesting | [UltraTech](writeups/tryhackme/pentesting/ultratech/README.md) | Easy | 2024-04-29
 | TryHackMe | Pentesting | [StuxCTF](writeups/tryhackme/pentesting/StuxCTF/README.md) | Medium | 2024-05-08
 | CTFLearn | Web Exploitation | [AudioEdit](writeups/ctflearn/Web/AudioEdit/README.md) | **Hard** | 2024-05-09 |
+| CTFLearn | Reverse Engineering | [Cryptoversing](writeups/ctflearn/reverseEngineering/Cryptoversing/README.md) | Medium | 2024-05-09 |
