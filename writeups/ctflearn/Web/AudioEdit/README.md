@@ -7,7 +7,7 @@
 
 When we visit the website, we see a simple audio editing tool. We can upload an audio file, and then we can apply some effects to it.
 
-![AudioEdit](https://beeimg.com/images/s28975348663.png)
+![AudioEdit](https://cdn.sarperavci.com/8365376d/0efcf3.png)
 
 If we upload a mp3 file, we can see that the author of the music and the title of the song are displayed, which are extracted from the metadata of the file.
 
@@ -27,7 +27,7 @@ id3v2 -a "AAAAAAAAAAAAAAAAAAAAAA" empty.mp3
 
 I uploaded the file to the website and I saw that the metadata was changed.
 
-![AudioEdit](https://beeimg.com/images/q94938211903.png)
+![AudioEdit](https://cdn.sarperavci.com/fbd43a25/70eade.png)
 
 I inferred that when we upload a file, the server extracts the metadata and stores it in a database. So I tried to upload an mp3 file with a sql injection in the metadata.
 
@@ -120,7 +120,7 @@ Bingo! We found the name of the file that contains the flag. Now we can download
 https://web.ctflearn.com/audioedit/edit.php?file=supersecretflagf1le.mp3
 ```
 
-![](https://beeimg.com/images/m34194978491.png)
+![](https://cdn.sarperavci.com/eb0fa8cf/879d07.png)
 
 Actually, the challenge was done at this point. However, years have passed since the challenge was published, the site does not work properly. So we couldn't see the spectogram of the audio file. But we can still download the file and listen to it.
 
@@ -136,7 +136,7 @@ After I did some research and found a repository that the javascript implementat
 You can [visit](https://github.com/urtzurd/html-audio) the repository I forked and hosted on GitHub Pages [here](https://sarperfiles.github.io/html-audio/static/)
  
 
-![Spectogram](https://beeimg.com/images/n80186953914.png)
+![Spectogram](https://cdn.sarperavci.com/d1d9849c/e06182.png)
 
 The flag is `ABCTF{m3t4_inj3cti00n}`.
 
